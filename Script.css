@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background: url(2148975282.jpg);
+    /* background: black; */
+    background-blend-mode:darken;
+    height: 90px;
+}
+.col-6 li{
+    float: left;
+    font-size: 18px;
+    word-spacing: 25px;
+}
